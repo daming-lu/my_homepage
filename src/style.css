@@ -1,0 +1,22 @@
+div.pub {
+padding-top: 10px;
+line-height: 20px;
+}
+
+img.papericon {
+box-shadow: 2px 2px 2px #888888;
+}
+
+td.pubimg {
+padding: 4px 0 4px 0;
+vertical-align: top;
+}
+
+.h3 {
+font-size: 17px;
+font-weight: bold;
+}
+td.pub {
+padding: 0px 0 0px 0;
+vertical-align: middle;
+}
